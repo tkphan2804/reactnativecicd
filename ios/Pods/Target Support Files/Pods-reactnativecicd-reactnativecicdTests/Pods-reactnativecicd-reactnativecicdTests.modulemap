@@ -1,0 +1,6 @@
+module Pods_reactnativecicd_reactnativecicdTests {
+  umbrella header "Pods-reactnativecicd-reactnativecicdTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
